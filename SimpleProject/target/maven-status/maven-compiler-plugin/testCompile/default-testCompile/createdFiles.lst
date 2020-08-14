@@ -1,0 +1,4 @@
+org\checkweather\test\ui\weatherUIStatus.class
+org\checkweather\test\ui\weatherAPITest.class
+Base\tests\ui\BaseTest.class
+org\checkweather\test\ui\compareUIandAPI.class
